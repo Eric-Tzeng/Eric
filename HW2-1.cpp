@@ -212,18 +212,3 @@ int main() {
 
 
 
-
-/*
-	while ( nowline < line ) {
-		while ( nowcolumn < column ) {
-			cout << maze[nowline][nowcolumn].step ;
-			nowcolumn++ ;
-		} // while
-		cout << '\n' ;
-		nowline++ ;
-		nowcolumn = 0 ;
-	} // while
-*/
-
-
-
